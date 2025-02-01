@@ -1,0 +1,6 @@
+__pycache__/
+.DS_Store
+venv/
+*.log
+*.h5  # Model weights
+dataset/
