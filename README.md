@@ -96,7 +96,7 @@ python test_model.py --model text_analysis/sentiment_lstm.h5
 
 If you’d like to contribute, feel free to submit a pull request! 😊
 
-💬 **Contact:** [Your Name](https://github.com/your-username)\
+💬 **Contact:** [AICodeSage](https://github.com/your-username)\
 📝 **License:** MIT License\
 📚 **Docs & Tutorials:** Coming soon! 📖
 
